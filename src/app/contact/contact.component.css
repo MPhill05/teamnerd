@@ -1,0 +1,17 @@
+.container {
+    background: url(../../assets/gpsMap.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.float-right {
+    background-color: rgba(0,0,0,0.75);
+    float: right;
+}
+
+h2, label {
+    text-align: center;
+    color: #EB454C;
+}

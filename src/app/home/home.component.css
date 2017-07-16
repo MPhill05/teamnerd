@@ -1,0 +1,25 @@
+.laTech {
+    height: 700px;
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+.macbook, .phone, .design {
+    height: 500px;
+    width: auto;
+}
+
+.SEO, .analytics, .speed {
+    height: 50px;
+    width: 50px;
+}
+
+.center {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#appDev {
+    background: #526A84;
+}
